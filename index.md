@@ -1,1 +1,1 @@
-Please see our [blog](https://ml4med.github.io/web/)
+Please see our [blog](https://ml4med.github.io/blog/)
